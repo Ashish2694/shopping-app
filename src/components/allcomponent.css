@@ -1,0 +1,204 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(241, 243, 246);
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media (max-width: 998px) {
+  html {
+    font-size: 50%;
+  }
+}
+@media (max-width: 768px) {
+  html {
+    font-size: 40%;
+  }
+}
+
+.containers {
+  background-color: rgb(235, 233, 233);
+  width: 100%;
+  padding: 0;
+  height: auto;
+  border-style: solid;
+  border: 0.5rem;
+  border-color: black;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.card {
+  margin: 1.5rem 0.5rem;
+  background-color: white;
+  box-shadow: 3px 3px 3px -7px black;
+}
+.cardimg {
+  height: 10rem;
+  width: 30%;
+}
+
+.image {
+  height: 60vh;
+  width: 90%;
+  padding: 3%;
+  border: solid grey thin;
+}
+
+.navbar {
+  background-color: rgb(40, 116, 240);
+  padding: auto;
+  font-weight: 500;
+  color: rgb(0, 0, 0);
+  width: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.nav-link {
+  font-size: 160%;
+  margin-right: 2rem;
+}
+span {
+  font-size: 1.5rem;
+}
+.logo {
+  height: 4rem;
+  width: 15rem;
+  margin-left: 10px;
+}
+
+.title {
+  margin-top: 10px;
+}
+.buttons {
+  height: 15%;
+  margin-top: 5%;
+  width: 90%;
+  align-items: left;
+  padding: 0;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+ul li {
+  display: inline;
+  padding: 0;
+}
+.button1 {
+  height: 4em;
+  width: 14em;
+  border: none;
+  background-color: rgb(255, 159, 0);
+  color: white;
+  font-weight: 900;
+}
+.button2 {
+  height: 3em;
+  width: 30em;
+  background-color: rgb(251, 100, 27);
+  color: white;
+  font-weight: 900;
+  border: none;
+}
+.cart-main-div {
+  background-color: rgb(241, 243, 246);
+}
+
+.cart-container {
+  background-color: rgb(241, 243, 246);
+  width: 100%;
+  height: 100vh;
+}
+.button3 {
+  height: 3.5em;
+  width: 14em;
+  margin-left: 1.5rem;
+  background-color: rgb(251, 100, 27);
+  color: white;
+  font-weight: 900;
+  float: right;
+  border: none;
+}
+
+.left {
+  margin-top: 2rem;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  height: 80%;
+  background-color: white;
+  padding: 2%;
+}
+.cartimage {
+  height: 10%;
+  width: 20%;
+}
+.cart-details {
+  margin-left: 10%;
+  width: 100%;
+  height: 12rem;
+}
+.price-details {
+  margin-top: 2rem;
+  padding: 0.5rem;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  height: 75%;
+  background-color: white;
+  margin-left: 5%;
+}
+
+.address-collapse {
+  width: 100%;
+  height: 10%;
+}
+
+.checkout-left {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  height: auto;
+  width: 80%;
+  background-color: white;
+  padding: 5%;
+  margin-left: 5%;
+}
+
+.checkout-container {
+  width: 100%;
+  height: 100%;
+  padding: 3%;
+  align-items: center;
+  justify-items: center;
+}
+.prices-details {
+  margin-top: 0.5rem;
+  padding: 0.5rem;
+  width: 80%;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  height: 20rem;
+  background-color: white;
+  margin-right: 10%;
+}
+.field__input {
+  margin: 0.5rem;
+}
+
+.button_add {
+  height: 2em;
+  width: 8em;
+  margin-left: 12rem;
+  background-color: rgb(251, 100, 27);
+  color: white;
+  font-weight: 900;
+  border: none;
+}
+
+.button_conferm {
+  height: 3em;
+  width: 20em;
+  background-color: rgb(251, 100, 27);
+  color: white;
+  font-weight: 900;
+  border: none;
+}
