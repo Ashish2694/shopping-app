@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/shopping-app/static/css/main.35610ef8.chunk.css",
+    "main.js": "/shopping-app/static/js/main.92bc799c.chunk.js",
+    "main.js.map": "/shopping-app/static/js/main.92bc799c.chunk.js.map",
+    "runtime-main.js": "/shopping-app/static/js/runtime-main.c3c28dae.js",
+    "runtime-main.js.map": "/shopping-app/static/js/runtime-main.c3c28dae.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/shopping-app/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.7d772388.chunk.js": "/shopping-app/static/js/2.7d772388.chunk.js",
+    "static/js/2.7d772388.chunk.js.map": "/shopping-app/static/js/2.7d772388.chunk.js.map",
+    "index.html": "/shopping-app/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/shopping-app/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.35610ef8.chunk.css.map": "/shopping-app/static/css/main.35610ef8.chunk.css.map",
+    "static/js/2.7d772388.chunk.js.LICENSE.txt": "/shopping-app/static/js/2.7d772388.chunk.js.LICENSE.txt",
+    "static/media/Ashishicon.99aa36b0.png": "/shopping-app/static/media/Ashishicon.99aa36b0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3c28dae.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.7d772388.chunk.js",
+    "static/css/main.35610ef8.chunk.css",
+    "static/js/main.92bc799c.chunk.js"
+  ]
+}
